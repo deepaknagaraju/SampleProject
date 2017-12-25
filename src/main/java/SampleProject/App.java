@@ -1,7 +1,7 @@
 package SampleProject;
 
 /**
- * Hello world! Test Git Commit From Local.
+ * Hello world! Test Git Commit From Server ---.
  *
  */
 public class App 
